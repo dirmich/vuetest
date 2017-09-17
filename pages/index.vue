@@ -1,19 +1,7 @@
 <template>
-  <section class="container">
-    <div>
-      <logo/>
-      <h1 class="title">
-        vuetest
-      </h1>
-      <h2 class="subtitle">
-        vue.js test code
-      </h2>
-      <div class="links">
-        <a href="https://nuxtjs.org/" target="_blank" class="button--green">Documentation</a>
-        <a href="https://github.com/nuxt/nuxt.js" target="_blank" class="button--grey">GitHub</a>
-      </div>
-    </div>
-  </section>
+  <div>
+    Hello! 안녕하세요!
+  </div>
 </template>
 
 <script>

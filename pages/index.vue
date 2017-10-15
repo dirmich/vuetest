@@ -1,6 +1,6 @@
 <template>
   <div>
-    Hello! 안녕하세요! 이런!
+    Hello! 안녕하세요! 이런!!
   </div>
 </template>
 
